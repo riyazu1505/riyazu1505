@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**riyazu1505/riyazu1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+   name: "Riyaz",
+   pronouns: "he" | "him",
+   code: { MEVN_Stack: MongoDB, ExpressJS, VueJS, NodeJS },
+   technologies: {
+      frontEnd: {
+         js: ["VueJS", "PWA"],
+         css: ["Bootstrap", "Material Design", "Vuetify UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"]
+   },
+   currentOccupation: ["Working as a Web Developer"],
+   challenge: "I'm working towards being able to run a marathon."
+}
