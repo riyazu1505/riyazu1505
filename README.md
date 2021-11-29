@@ -5,8 +5,8 @@
 
 ## I'm a curious Developer 👨‍💻
 - 💻 I’m currently working on web development technologies like **Vue.js, Node.js, Express.js, Mongoose ORM, Socket.IO and etc.**
-- :test_tube: Knowledge in **Javascript, AJAX, Linux and others.**
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- :test_tube: Knowledge in **Nginx, Jenkins, Linux and others.**
+- 📚 I’m currently learning everything about Frontend, Backend and Cloud technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - :speech_balloon: Interested in **MEVN Development**!
 - ⚡ Fun fact: travelling lover 🥰
@@ -16,8 +16,10 @@
 
 ### Languages I use 📑
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brown?style=flat-square&logo=mongodb)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-grey?style=flat-square&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
@@ -25,12 +27,9 @@
 ### Tools and Others 🛠 
 
 ![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
-![DOCKER](https://img.shields.io/badge/-DOCKER-white?style=flat-square&logo=docker)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brown?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
