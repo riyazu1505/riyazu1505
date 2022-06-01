@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a curious Developer 👨‍💻
-- 💻 I’m currently working on web development technologies such as **Vue.js, Node.js, Express.js, Mongoose ORM, Socket.IO and etc.**
+- 💻 I’m currently working on web development technologies such as **Vue.js, Node.js, Express.js, Mongoose ODM, Socket.IO and etc.**
 - :test_tube: Knowledge in **Nginx, Linux and others.**
 - 📚 I’m currently learning everything about Frontend, Backend and Cloud technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
