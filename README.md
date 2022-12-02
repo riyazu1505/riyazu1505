@@ -1,5 +1,5 @@
 ### Hi there I am Riyaz 👋
-- 🙋🏻‍♂️ 21 years oldy guy from India.
+- 🙋🏻‍♂️ 22 years oldy guy from India.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
