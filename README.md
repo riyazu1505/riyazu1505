@@ -1,5 +1,5 @@
 ### Hi there I am Riyaz 👋
-- 🙋🏻‍♂️ 22 years oldy guy from India.
+- 🙋🏻‍♂️ 24 years oldy guy from India.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: music lover 🥰
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyazu1505@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyazbasha-m/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyazu/)
 
 ### Languages I use 📑
 
